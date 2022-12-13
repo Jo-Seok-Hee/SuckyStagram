@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+header {
+	height:70px;
+	font-size:43px;
+}
+
+
+
+
+footer{
+	height:70px;
+	font-size:12px;
+}
+
+#loginBox {
+	height:350px;
+	width:260px;
+	background-color: #edece4;
+	margin-left:300px;
+}
+
+#signUpBox {
+	background-color: #edece4;
+}
+
+#timeline {
+	width:500px;
+	
+}
+
+#postHeader {
+	width:500px;
+	height:50px;
+}
+
+.img-icon {
+	font-size:25px;
+
+}
